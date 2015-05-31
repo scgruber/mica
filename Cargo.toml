@@ -5,3 +5,5 @@ authors = ["Sam Gruber <grubermensch@gmail.com>"]
 
 [dependencies]
 iron = "*"
+rustc-serialize = "*"
+handlebars-iron = "*"
