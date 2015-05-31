@@ -7,3 +7,5 @@ authors = ["Sam Gruber <grubermensch@gmail.com>"]
 iron = "*"
 rustc-serialize = "*"
 handlebars-iron = "*"
+rust-sqlite = "*"
+persistent = "*"
